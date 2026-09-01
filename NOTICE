@@ -1,0 +1,29 @@
+csi414-data-visualization-superset
+Copyright 2026 Amornpan Phornchaicharoen
+
+เอกสาร ใบงาน และสคริปต์ในที่เก็บนี้ จัดทำขึ้นเพื่อการเรียนการสอน
+รายวิชา CSI414 ดาต้าวิชวลไลเซชัน มหาวิทยาลัยศรีปทุม
+
+--------------------------------------------------------------------------
+ส่วนที่นำมาจากโครงการ Apache Superset
+--------------------------------------------------------------------------
+
+This product includes materials developed by
+The Apache Software Foundation (https://www.apache.org/).
+
+ภาพหน้าจอทั้งหมดในโฟลเดอร์ assets/official/ คัดลอกมาจากโครงการ
+Apache Superset (https://github.com/apache/superset) ซึ่งเผยแพร่ภายใต้
+Apache License เวอร์ชัน 2.0
+
+รายการไฟล์ ที่มา และ commit ต้นทางของแต่ละภาพ อยู่ใน ATTRIBUTIONS.md
+
+--------------------------------------------------------------------------
+เครื่องหมายการค้า
+--------------------------------------------------------------------------
+
+Apache Superset, Apache, Superset, the Superset logo, and the Apache feather
+logo are either registered trademarks or trademarks of The Apache Software
+Foundation in the United States and/or other countries.
+
+เอกสารชุดนี้จัดทำขึ้นโดยอิสระ ไม่ใช่โครงการของมูลนิธิ Apache Software
+Foundation และไม่ได้รับการรับรองหรือสนับสนุนจากมูลนิธิแต่อย่างใด
