@@ -35,7 +35,19 @@
 | 9 | แผนที่ด้วย deck.gl | [W09](slides/lectures/W09_แผนที่.pdf) | [Lab09](slides/labs/Lab09_แผนที่.pdf) | [ใบงาน](labs/lab09-แผนที่/ใบงาน.md) |
 | 10 | ส่งมอบงานและแคช | [W10](slides/lectures/W10_ส่งมอบ.pdf) | [Lab10](slides/labs/Lab10_ส่งมอบ.pdf) | [ใบงาน](labs/lab10-ส่งมอบ/ใบงาน.md) |
 
-**สัปดาห์ 11 ถึง 15 เป็นโปรเจกต์** — Proposal · System Design · Checkpoint Demo · คาบปรึกษา · นำเสนอปลายภาค
+### สัปดาห์ 11 ถึง 15 — โครงงานกลุ่ม 40%
+
+| สัปดาห์ | ด่าน | สไลด์ | เอกสาร | คะแนน |
+|---|---|---|---|---|
+| 11 | Proposal Clinic | [W11](slides/lectures/W11_proposal-clinic.pdf) | [ฟอร์ม Proposal](project/แบบฟอร์ม_Proposal_W11.md) · [ประเมินเพื่อน](project/แบบฟอร์ม_PeerReview_W11.md) | 5% |
+| 12 | Design Review | [W12](slides/lectures/W12_design-review.pdf) | [10-second test](project/แบบฟอร์ม_10SecondTest_W12.md) | 5% |
+| 13 | Mock Defense | [W13](slides/lectures/W13_mock-defense.pdf) | [ฟอร์มกรรมการ](project/แบบฟอร์ม_MockDefense_W13.md) | 5% |
+| 14–15 | **Defense** | — | [ตารางสอบ](project/ตารางสอบ_Defense_W14-15.md) · [เปิดเผยการใช้ AI](project/แบบฟอร์ม_เปิดเผยการใช้AI.md) · [Peer Evaluation](project/แบบฟอร์ม_PeerEvaluation.md) | 25% |
+
+📋 **[โจทย์โครงงานฉบับเต็ม](project/โจทย์โครงงาน.md)** — อ่านก่อนตั้งทีม
+
+สัปดาห์ 11–13 ครึ่งแรกของคาบมีกิจกรรมเก็บคะแนน ครึ่งหลังเป็นคาบปรึกษารายทีม
+W14 สอบกลุ่ม L001 L002 · W15 สอบกลุ่ม L003 L004
 
 ---
 
