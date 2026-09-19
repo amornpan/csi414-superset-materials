@@ -28,26 +28,29 @@
 | 2 | กราฟแรกและกราฟที่สอง | [W02](slides/lectures/W02_กราฟแรก.pdf) | [Lab02](slides/labs/Lab02_กราฟแรก.pdf) | [ใบงาน](labs/lab02-กราฟแรก/ใบงาน.md) |
 | 3 | กราฟเส้นและการเลือกชนิดกราฟ | [W03](slides/lectures/W03_กราฟเส้น.pdf) | [Lab03](slides/labs/Lab03_กราฟเส้น.pdf) | [ใบงาน](labs/lab03-กราฟเส้น/ใบงาน.md) |
 | 4 | Chart Makeover | [W04](slides/lectures/W04_makeover.pdf) | [Lab04](slides/labs/Lab04_makeover.pdf) | [ใบงาน](labs/lab04-makeover/ใบงาน.md) |
-| 5 | จัดหน้า Markdown และตัวกรอง | [W05](slides/lectures/W05_แดชบอร์ด.pdf) | [Lab05](slides/labs/Lab05_แดชบอร์ด.pdf) | [ใบงาน](labs/lab05-แดชบอร์ด/ใบงาน.md) |
-| 6 | ทำให้แดชบอร์ดโต้ตอบได้ | [W06](slides/lectures/W06_โต้ตอบ.pdf) | [Lab06](slides/labs/Lab06_โต้ตอบ.pdf) | [ใบงาน](labs/lab06-โต้ตอบ/ใบงาน.md) |
-| 7 | Advanced Analytics | [W07](slides/lectures/W07_advanced-analytics.pdf) | [Lab07](slides/labs/Lab07_advanced.pdf) | [ใบงาน](labs/lab07-advanced/ใบงาน.md) |
-| 8 | SQL Lab และ Semantic Layer | [W08](slides/lectures/W08_sql-semantic.pdf) | [Lab08](slides/labs/Lab08_sql.pdf) | [ใบงาน](labs/lab08-sql/ใบงาน.md) |
-| 9 | แผนที่ด้วย deck.gl | [W09](slides/lectures/W09_แผนที่.pdf) | [Lab09](slides/labs/Lab09_แผนที่.pdf) | [ใบงาน](labs/lab09-แผนที่/ใบงาน.md) |
-| 10 | ส่งมอบงานและแคช | [W10](slides/lectures/W10_ส่งมอบ.pdf) | [Lab10](slides/labs/Lab10_ส่งมอบ.pdf) | [ใบงาน](labs/lab10-ส่งมอบ/ใบงาน.md) |
+| 5 | จัดหน้า Markdown และตัวกรอง · สำรวจข้อมูล 1: ค่าที่หายไป | [W05](slides/lectures/W05_แดชบอร์ด.pdf) | [Lab05](slides/labs/Lab05_แดชบอร์ด.pdf) | [ใบงาน](labs/lab05-แดชบอร์ด/ใบงาน.md) |
+| 6 | ทำให้แดชบอร์ดโต้ตอบได้ · สำรวจข้อมูล 2: การกระจายตัว | [W06](slides/lectures/W06_โต้ตอบ.pdf) | [Lab06](slides/labs/Lab06_โต้ตอบ.pdf) | [ใบงาน](labs/lab06-โต้ตอบ/ใบงาน.md) |
+| 7 | Advanced Analytics · สำรวจข้อมูล 3: ค่าผิดปกติ | [W07](slides/lectures/W07_advanced-analytics.pdf) | [Lab07](slides/labs/Lab07_advanced.pdf) | [ใบงาน](labs/lab07-advanced/ใบงาน.md) |
+| 8 | SQL Lab และ Semantic Layer · สำรวจข้อมูล 4: ชุดข้อมูลที่รันซ้ำได้ | [W08](slides/lectures/W08_sql-semantic.pdf) | [Lab08](slides/labs/Lab08_sql.pdf) | [ใบงาน](labs/lab08-sql/ใบงาน.md) |
+| 9 | แผนที่ด้วย deck.gl · สำรวจข้อมูล 5: ความสัมพันธ์ | [W09](slides/lectures/W09_แผนที่.pdf) | [Lab09](slides/labs/Lab09_แผนที่.pdf) | [ใบงาน](labs/lab09-แผนที่/ใบงาน.md) |
+| 10 | ส่งมอบงานและแคช · สำรวจข้อมูล 6: Data Understanding Brief | [W10](slides/lectures/W10_ส่งมอบ.pdf) | [Lab10](slides/labs/Lab10_ส่งมอบ.pdf) | [ใบงาน](labs/lab10-ส่งมอบ/ใบงาน.md) |
+
+**สัปดาห์ 5–10 มีสายสำรวจข้อมูล (EDA) ต่อท้ายทุกแล็บ** ใช้ชุด `flights` ชุดเดียวตลอดหกสัปดาห์ ด้วยแบบแผน **ถามด้วย SQL → ดูด้วยกราฟ → ตัดสินใจ**
+ทุกสัปดาห์จดลง Decision log และจบที่เอกสารส่งต่อให้คนสร้างโมเดลในสัปดาห์ 10 — แผนทั้งสาย: [แผน EDA สัปดาห์ 5–11](labs/แผนEDA_สัปดาห์5-11.md)
 
 ### สัปดาห์ 11 ถึง 15 — โครงงานกลุ่ม 40%
 
 | สัปดาห์ | ด่าน | สไลด์ | เอกสาร | คะแนน |
 |---|---|---|---|---|
-| 11 | Proposal Clinic | [W11](slides/lectures/W11_proposal-clinic.pdf) | [ฟอร์ม Proposal](project/แบบฟอร์ม_Proposal_W11.md) · [ประเมินเพื่อน](project/แบบฟอร์ม_PeerReview_W11.md) | 5% |
+| 11 | บทสรุป Superset ในงานจริง · AI ผ่าน MCP (อาจารย์สาธิต) แล้วต่อด้วย **Proposal Clinic** | [บรรยาย](slides/lectures/W11_สรุป-superset-mcp.pdf) · [Proposal Clinic](slides/lectures/W11_proposal-clinic.pdf) | [ฟอร์ม Proposal](project/แบบฟอร์ม_Proposal_W11.md) · [ประเมินเพื่อน](project/แบบฟอร์ม_PeerReview_W11.md) | 5% |
 | 12 | Design Review | [W12](slides/lectures/W12_design-review.pdf) | [10-second test](project/แบบฟอร์ม_10SecondTest_W12.md) | 5% |
 | 13 | Mock Defense | [W13](slides/lectures/W13_mock-defense.pdf) | [ฟอร์มกรรมการ](project/แบบฟอร์ม_MockDefense_W13.md) | 5% |
-| 14–15 | **Defense** | — | [ตารางสอบ](project/ตารางสอบ_Defense_W14-15.md) · [เปิดเผยการใช้ AI](project/แบบฟอร์ม_เปิดเผยการใช้AI.md) · [Peer Evaluation](project/แบบฟอร์ม_PeerEvaluation.md) | 25% |
+| 14 | **Defense ทุกกลุ่ม** (W15 เป็นคาบสำรอง) | — | [ตารางสอบ](project/ตารางสอบ_Defense_W14-15.md) · [เปิดเผยการใช้ AI](project/แบบฟอร์ม_เปิดเผยการใช้AI.md) · [Peer Evaluation](project/แบบฟอร์ม_PeerEvaluation.md) | 25% |
 
 📋 **[โจทย์โครงงานฉบับเต็ม](project/โจทย์โครงงาน.md)** — อ่านก่อนตั้งทีม
 
 สัปดาห์ 11–13 ครึ่งแรกของคาบมีกิจกรรมเก็บคะแนน ครึ่งหลังเป็นคาบปรึกษารายทีม
-W14 สอบกลุ่ม L001 L002 · W15 สอบกลุ่ม L003 L004
+W14 สอบทุกกลุ่มในคาบปฏิบัติการของตัวเอง (ตรงกับสัปดาห์ Final ของโครงงานร่วม 23–28 พ.ย. 2569) · W15 เป็นคาบสำรอง/ชดเชย
 
 ---
 
@@ -68,8 +71,7 @@ Superset ไม่ห้ามแดชบอร์ดชื่อซ้ำก�
 
 | ส่วน | เต็ม | ตรวจอะไร |
 |---|---:|---|
-| ชุดตรวจอัตโนมัติ | 8 | ข้อกำหนดของสัปดาห์นั้น **บวกกับของทุกสัปดาห์ก่อนหน้า** |
-| คุณภาพบันทึก | 2 | บันทึกใต้หัวข้อ `## บันทึกสัปดาห์ที่ N` ยาวถึงเกณฑ์ มีตัวเลขหรือชื่อค่าจากชุดข้อมูลอ้างอิง และไม่ซ้ำสัปดาห์ก่อน |
+| ชุดตรวจอัตโนมัติ | 10 | ข้อกำหนดของสัปดาห์นั้น **บวกกับของทุกสัปดาห์ก่อนหน้า** รวมถึงบันทึกใต้หัวข้อ `## บันทึกสัปดาห์ที่ N` (ยาวถึงเกณฑ์ และอ้างตัวเลขหรือชื่อค่าจากชุดข้อมูล) — เกณฑ์รายข้ออยู่ท้ายใบงานของแต่ละสัปดาห์ |
 
 **ตรวจแบบสะสม** ชุดตรวจของสัปดาห์ที่ 8 ตรวจข้อกำหนดของสัปดาห์ที่ 2 ถึง 8 ครบทุกข้อ
 ใครลบกราฟเก่าหรือบันทึกเก่าทิ้ง จะตกข้อของสัปดาห์นั้นย้อนหลังทันที
@@ -83,12 +85,24 @@ Superset ไม่ห้ามแดชบอร์ดชื่อซ้ำก�
 ทุกชุดเป็น **ชุดตัวอย่างทางการของ Apache Superset** จาก [apache-superset/examples-data](https://github.com/apache-superset/examples-data)
 โหลดเข้าเซิร์ฟเวอร์ของวิชาไว้ให้แล้ว **ไม่ต้องอัปโหลดเอง**
 
-| Dataset | เนื้อหา | ใช้สัปดาห์ |
-|---|---|---|
-| `tutorial_flights` | ค่าเดินทางของพนักงานองค์กรหนึ่ง 2,954 แถว ปี 2011 | 2–6 |
-| `video_game_sales` | ยอดขายเกมทั่วโลก | 1, 6 |
-| `flight_data` + `airports` | เที่ยวบินในสหรัฐ พร้อมตารางสนามบินไว้ join | 3, 4 |
-| `san_francisco` | ที่อยู่ในซานฟรานซิสโก 261,552 แถว | 9 |
+| Dataset | ฐานข้อมูล | เนื้อหา | ใช้สัปดาห์ |
+|---|---|---|---|
+| `tutorial_flights` | `lab_db` | ค่าเดินทางของพนักงานองค์กรหนึ่ง 2,954 แถว ปี 2011 | 1–10 (แดชบอร์ดสะสม · ชุดที่ตัวตรวจใช้) |
+| `flights` | `examples` | เที่ยวบินในสหรัฐ 55,105 แถว 44 คอลัมน์ 1–4 ม.ค. 2015 รวมพิกัดสนามบิน | 5–10 (สายสำรวจข้อมูล) |
+| `video_game_sales` | `examples` | ยอดขายเกมทั่วโลก 16,595 แถว | อาจารย์ใช้สาธิตในคาบบรรยายสัปดาห์ 5–9 |
+| `san_francisco` | `lab_db` | ที่อยู่ในซานฟรานซิสโก 261,552 แถว | 9 |
+
+## สิ่งที่ควรรู้เกี่ยวกับเซิร์ฟเวอร์ของวิชา
+
+`superset.minddatatech.com` เป็น Apache Superset 4.1.4 ตั้งค่าเพิ่มจากค่าตั้งต้นสามเรื่อง (มีผลตั้งแต่ 19 ก.ย. 2569)
+
+| เรื่อง | ผลกับคุณ |
+|---|---|
+| **เห็นเฉพาะงานของตัวเอง** | หน้า Charts และ Datasets แสดงเฉพาะสิ่งที่คุณเป็นเจ้าของ แดชบอร์ด Draft ก็เช่นกัน · กราฟตัวอย่างของระบบดูได้ผ่านแดชบอร์ดตัวอย่างที่เผยแพร่ไว้ แต่เปิดเข้าไปแก้ไม่ได้ |
+| **SQL Lab** | ใช้ได้กับ `flights` (Database `examples` · Schema `main`) และ `tutorial_flights` (Database `lab_db` · Schema `public`) · Saved Query เห็นได้เฉพาะเจ้าของ |
+| **Dataset เสมือน** | สร้างจาก SQL Lab ได้ (สัปดาห์ 8) ตั้งชื่อลงท้ายด้วยรหัสนักศึกษา · แก้และลบได้เฉพาะของตัวเอง |
+
+**โครงงานกลุ่ม:** เพื่อนร่วมทีมจะไม่เห็นงานของคุณโดยอัตโนมัติ ต้องเพิ่มสมาชิกทุกคนเป็น Owners ของแดชบอร์ด กราฟ และ Dataset ของทีม — วิธีทำอยู่ใน [โจทย์โครงงาน](project/โจทย์โครงงาน.md)
 
 ---
 
