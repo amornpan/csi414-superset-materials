@@ -45,12 +45,12 @@
 | 11 | บทสรุป Superset ในงานจริง · AI ผ่าน MCP (อาจารย์สาธิต) แล้วต่อด้วย **Proposal Clinic** | [บรรยาย](slides/lectures/W11_สรุป-superset-mcp.pdf) · [Proposal Clinic](slides/lectures/W11_proposal-clinic.pdf) | [ฟอร์ม Proposal](project/แบบฟอร์ม_Proposal_W11.md) · [ประเมินเพื่อน](project/แบบฟอร์ม_PeerReview_W11.md) | 5% |
 | 12 | Design Review | [W12](slides/lectures/W12_design-review.pdf) | [10-second test](project/แบบฟอร์ม_10SecondTest_W12.md) | 5% |
 | 13 | Mock Defense | [W13](slides/lectures/W13_mock-defense.pdf) | [ฟอร์มกรรมการ](project/แบบฟอร์ม_MockDefense_W13.md) | 5% |
-| 14 | **Defense ทุกกลุ่ม** (W15 เป็นคาบสำรอง) | — | [ตารางสอบ](project/ตารางสอบ_Defense_W14-15.md) · [เปิดเผยการใช้ AI](project/แบบฟอร์ม_เปิดเผยการใช้AI.md) · [Peer Evaluation](project/แบบฟอร์ม_PeerEvaluation.md) | 25% |
+| 14 | **Defense ทุกกลุ่ม** (W15 เป็นคาบสำรอง 30 พ.ย.–1 ธ.ค.) | — | [ตารางสอบ](project/ตารางสอบ_Defense_W14-15.md) · [เปิดเผยการใช้ AI](project/แบบฟอร์ม_เปิดเผยการใช้AI.md) · [Peer Evaluation](project/แบบฟอร์ม_PeerEvaluation.md) | 25% |
 
 📋 **[โจทย์โครงงานฉบับเต็ม](project/โจทย์โครงงาน.md)** — อ่านก่อนตั้งทีม
 
 สัปดาห์ 11–13 ครึ่งแรกของคาบมีกิจกรรมเก็บคะแนน ครึ่งหลังเป็นคาบปรึกษารายทีม
-W14 สอบทุกกลุ่มในงาน CSI ปล่อยของ #7 (Final ของโครงงานร่วม 27–29 พ.ย. 2569) · W15 เป็นคาบสำรอง/ชดเชย
+W14 สอบทุกกลุ่มในงาน CSI ปล่อยของ #7 (Final ของโครงงานร่วม 27–29 พ.ย. 2569) · W15 เป็นคาบสำรอง/ชดเชย (30 พ.ย.–1 ธ.ค. ตามปฏิทินมหาวิทยาลัย)
 
 ---
 
